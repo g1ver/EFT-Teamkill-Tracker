@@ -13,6 +13,7 @@ Report bugs or request features here: https://github.com/g1ver/EFT-Teamkill-Trac
 ## Planned features:
 - Web client
 - Public API
+- Porting to multiple languages
 
 # Commands 
 - !!log **@Killer** **@Killed** _"note"_
