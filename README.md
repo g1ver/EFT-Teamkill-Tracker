@@ -14,6 +14,8 @@ Report bugs or request features here: https://github.com/g1ver/EFT-Teamkill-Trac
 # Commands 
 - !!log **@Killer** **@Killed** _"note"_
   - Log a kill within the database.
+  - Note must be in quotes
+  - Note must be less than 300 characters.
 - !!list
   - Get a list of kills from the database.
 - !!leaderboard (**_kills_** / **_deaths_**)
