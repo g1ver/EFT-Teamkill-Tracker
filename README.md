@@ -7,6 +7,7 @@ https://discord.com/oauth2/authorize?client_id=864333416191229973&scope=bot&perm
 ## Source Code soon...
 - Backend API using DjangoRestFramework
 - Discord Bot using Discord.py
+
 Report bugs or request features here: https://github.com/g1ver/EFT-Teamkill-Tracker/issues
 
 ## Planned features:
