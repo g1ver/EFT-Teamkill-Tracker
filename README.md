@@ -1,3 +1,6 @@
+## NOTE: I am currently rewriting the whole bot to comply with Discord's new bot standards (using slash commands instead of chat commmands
+Read here: https://support-dev.discord.com/hc/en-us/articles/4404772028055-Message-Content-Access-Deprecation-for-Verified-Bots
+
 # EFT-Teamkill-Tracker
 Discord Bot for tracking teamkills in Escape from Tarkov
 
