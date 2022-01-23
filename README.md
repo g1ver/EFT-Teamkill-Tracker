@@ -3,6 +3,8 @@ The bot has been completely rewritten to utilize Discord's slash commands featur
 
 Read more about Discord's decision [here](https://support-dev.discord.com/hc/en-us/articles/4404772028055-Message-Content-Access-Deprecation-for-Verified-Bots). 
 
+- Some files dealing with the database are not available because I'm working on an API for the kill data
+
 # EFT-Teamkill-Tracker
 Discord Bot for tracking teamkills in Escape from Tarkov
 
