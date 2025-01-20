@@ -1,3 +1,10 @@
+## Deprecating Bot
+I stopped playing Escape from Tarkov a while ago, and I have had the bot running the past four years for anyone still using it.
+
+I decided to prepare to shut it down while I work on other projects. If you want to get your server data, you can look [here](https://eft-tk-tracker-web-export.vercel.app/).
+
+Thanks for the four years! 😎
+
 ## Tarkov Tracker v2 Update
 The bot has been completely rewritten to utilize Discord's slash commands features and to comply with Discord's decision to make message content an intent. You may need to update the bot's permissions with the [invite link](https://discord.com/api/oauth2/authorize?client_id=864333416191229973&permissions=248896&scope=applications.commands%20bot).
 
